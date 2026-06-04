@@ -1,0 +1,7 @@
+Data Set,Region,Description,Time,Months,Assets,Source
+FF25,US,25 portfolios formed on ME and BE/ME,Jul/1971 ~ Mar/2026,657,25,https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_5x5_CSV.zip
+FF25EU,EU,25 European portfolios formed on ME and prior return,Nov/1990 ~ Mar/2026,425,25,https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/Europe_25_Portfolios_ME_Prior_12_2_CSV.zip
+FF32,US,"32 portfolios formed on ME, BE/ME, and investment",Jul/1971 ~ Mar/2026,657,32,https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/32_Portfolios_ME_BEME_INV_2x4x4_CSV.zip
+FF48,US,48 industry portfolios,Jul/1971 ~ Mar/2026,657,48,https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/48_Industry_Portfolios_CSV.zip
+FF100,US,100 portfolios formed on ME and BE/ME,Jul/1971 ~ Mar/2026,537,100,https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/100_Portfolios_10x10_CSV.zip
+FF100MEOP,US,100 portfolios formed on ME and operating profitability,Jul/1971 ~ Mar/2026,657,100,https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/100_Portfolios_ME_OP_10x10_CSV.zip
